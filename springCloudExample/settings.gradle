@@ -1,0 +1,4 @@
+rootProject.name = 'springCloudExample'
+include 'product'
+include 'display'
+
